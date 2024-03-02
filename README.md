@@ -19,3 +19,4 @@ And now you are ready to go, your application is now live.
 
 ## Your Contribution Is Very Precious to Us.
 
+![Logo](logo.png)
