@@ -1,8 +1,22 @@
-# React + Vite
+# Docs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React Application in which we can create our docs or notes. This is an practice application.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1 -> Tailwind CSS
+
+### 2 -> React
+
+## Application Running steps
+
+1. Open Application in the code editor.
+2. Install Node js if not installed from [Node Js](https://nodejs.org/en/download)
+3. Run the command `npm install` in the terminal.
+4. Now run `npm run dev`
+
+And now you are ready to go, your application is now live.
+
+## Your Contribution Is Very Precious to Us.
+
+![Demo](logo.png)
