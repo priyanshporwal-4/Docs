@@ -2,6 +2,11 @@
 
 A React Application in which we can create our docs or notes. This is an practice application.
 
+## Technologies Used
+
+### 1 -> Tailwind CSS
+### 2 -> React
+
 ## Application Running steps
 
 1. Open Application in the code editor.
