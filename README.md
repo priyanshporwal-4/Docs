@@ -11,7 +11,7 @@ A React Application in which we can create our docs or notes. This is an practic
 ## Application Running steps
 
 1. Open Application in the code editor.
-
+2. Install Node js if not installed from [Node Js](https://nodejs.org/en/download)
 3. Run the command `npm install` in the terminal.
 4. Now run `npm run dev`
 
